@@ -2,11 +2,9 @@
 TEC-1 32 Port Select Expansion daughter board
 
 
-- Ian McLean
-- 32 Port Expansion for TEC-1 daughter board
+- Ian McLean 32 Port Expansion for TEC-1 daughter board
 - This is my proposed circuit - just a stock standard use of 138 decoders and 1/2 of a 139 decoder for building a larger decoder as per datasheet spec.
-- Why so many ports? 
-- Answer one - Why not?! 
+- Why so many ports? Answer one - Why not?! 
 - Answer two - because I would like to build a 16x8 display (or larger) with every LED individually addressable and latch-able 
 - i.e. no multiplexing required, and therefore a much much easier display to drive, 
 - and consequently a display with even brightness on all LEDs.
